@@ -1,1 +1,1 @@
-Dit is een readme..
+Deze file gaat raffa errors geve :)
