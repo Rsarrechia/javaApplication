@@ -6,8 +6,10 @@ public class main {
 
 	public static void main(String[] args){
 		// TODO Auto-generated method stub
+		// derde aanpassing
 		ArrayList <Integer> lijst = new ArrayList<>();
 		// eerste aanpassing
+		
 		while(true) {
 			int teller = 0;
 			lijst.add(teller);
