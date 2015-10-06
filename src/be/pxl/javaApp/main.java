@@ -9,7 +9,6 @@ public class main {
 		// derde aanpassing
 		ArrayList <Integer> lijst = new ArrayList<>();
 		// eerste aanpassing
-		
 		while(true) {
 			int teller = 0;
 			lijst.add(teller);
