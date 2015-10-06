@@ -8,6 +8,7 @@ public class main {
 		// vijfde aanpassing
 		// TODO Auto-generated method stub
 		// derde aanpassing
+		// vierde aanpassing
 		ArrayList <Integer> lijst = new ArrayList<>();
 		// eerste aanpassing
 		while(true) {
