@@ -8,6 +8,7 @@ public class main {
 		// TODO Auto-generated method stub
 		ArrayList <Integer> lijst = new ArrayList<>();
 		// eerste aanpassing
+		// tweede aanpassing
 		while(true) {
 			int teller = 0;
 			lijst.add(teller);
